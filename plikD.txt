@@ -1,1 +1,1 @@
-To jest zawartość pliku D.
+To jest zmieniona zawartość pliku D na branchu test.
