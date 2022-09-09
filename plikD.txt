@@ -1,1 +1,1 @@
-Dodanie funkcjonalności D.
+To jest zawartość pliku D.
