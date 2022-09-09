@@ -1,1 +1,1 @@
-Dodanie funkcjonalnosci C.
+To jest zawartość pliku C.
